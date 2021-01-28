@@ -50,7 +50,7 @@ if(isset($_POST['submit'])) {
 		</header>
 
 		<main>
-			<div class="container">
+			<div class="container" style="display: block;">
 				<h2>Добавить вопрос</h2>
 				<form method="post" action="">
 
